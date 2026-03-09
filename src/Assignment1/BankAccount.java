@@ -1,3 +1,5 @@
+package Assignment1;
+
 class BankAccount {
 
     private int accountNumber;

@@ -1,3 +1,5 @@
+package Assignment1;
+
 public class SumEvenNumbers {
     public static void main(String[] args) {
 

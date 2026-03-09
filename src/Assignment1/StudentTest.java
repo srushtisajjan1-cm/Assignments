@@ -1,3 +1,5 @@
+package Assignment1;
+
 class Student {
     String name;
     int age;
